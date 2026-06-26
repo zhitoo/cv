@@ -65,7 +65,7 @@ export default function Main() {
 
           <Job
             title="Backend Developer"
-            company="Live.WatchThem"
+            company="WatchThem.Live"
             period="Feb 2021 — Apr 2023"
             projects={[
               {
@@ -84,11 +84,11 @@ export default function Main() {
 
           <Job
             title="Full-Stack Developer"
-            company="Arnika — Homsa Platform"
+            company="Ernyka Holding Company"
             period="Apr 2020 — Feb 2021"
             projects={[
               {
-                name: "Homsa",
+                name: "Homsa.net",
                 subtitle: "Accommodation Booking Platform",
                 bullets: [
                   "Refactored a monolithic codebase using Repository and Service design patterns, moving validations to Form Requests and authorization to Gates & Policies.",
@@ -103,7 +103,7 @@ export default function Main() {
 
           <Job
             title="Full-Stack Developer"
-            company="Sitak"
+            company="Citek"
             period="Apr 2018 — Apr 2020"
             projects={[
               {
@@ -121,7 +121,7 @@ export default function Main() {
 
           <Job
             title="Full-Stack Developer"
-            company="User-V"
+            company="v-user.com"
             period="Apr 2016 — Feb 2018"
             projects={[
               {
